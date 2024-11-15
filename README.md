@@ -1,2 +1,3 @@
 # JS-Basics
-https://giffiles.alphacoders.com/739/73902.gif
+![image](https://github.com/user-attachments/assets/f1b00770-0b48-4ba8-be99-17bce06798e8)
+
