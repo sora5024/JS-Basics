@@ -26,6 +26,8 @@ var stopNow = false;
 */
 
 var nums = [1, 5, 10];
+let fruits = ['lemon','kiwi','melon','mango']
+console.log(fruits[2]); // saame liigi vaartusele, mis on jadas indeksi 2.
 
 /**
 * FUNCTION
